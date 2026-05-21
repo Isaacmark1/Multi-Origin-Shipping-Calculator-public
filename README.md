@@ -1,4 +1,4 @@
-# Multi-Origin Shipping Calculator
+# Multi-Origin Shipping Calculator Extracts for Showcase
 
 A custom WooCommerce shipping calculator designed for stores that ship products from multiple origins, vendors, warehouses, suppliers, or countries.
 
